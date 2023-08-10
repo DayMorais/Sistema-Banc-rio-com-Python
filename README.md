@@ -6,4 +6,6 @@ Saque e depósito > 0 /
 Limite de saque = R$ 500,00 /
 Limite Quantidade de Saque Diário = 3 /
 Saldo acumulativo /
-Extrato acumulativo
+Extrato acumulativo.
+
+Atualização em 10/08: Otimização do sistema bancário com Criação de Conta, Criação de Usuário e Listas.
